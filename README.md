@@ -3,6 +3,11 @@
 
 **NutriLens** is an iOS nutrition tracking concept app built with **SwiftUI**. It focuses on clean UI, smooth interactions, and modular architecture.
 
+![Visitors](https://komarev.com/ghpvc/?username=prajapati-nikunj&repo=Essentials&label=Views&color=blue)
+
+![Stars](https://img.shields.io/github/stars/prajapati-nikunj/Essentials?style=social)
+![Forks](https://img.shields.io/github/forks/prajapati-nikunj/Essentials?style=social)
+![Downloads](https://img.shields.io/github/downloads/prajapati-nikunj/Essentials/total)
 ## 📱 Features (High-Level)
 
 * AI-inspired **food scanning** concept
